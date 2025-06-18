@@ -1,4 +1,4 @@
-name: Run Telegram Bot (every 10 minutes)
+name: FCT Blueprint Telegram Bot
 
 on:
   workflow_dispatch:
